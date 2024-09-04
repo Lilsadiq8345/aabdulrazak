@@ -1,6 +1,3 @@
-# aabdulrazak 
+This is a personal website for AbuBakar Abdulrazak.
 
-
-This is a personal website for Abu Bakar Abdulrazak. 
-
-This repository is inspired by https://github.com/Balogunhabeeb14/HBalogun
+Https://github.com/Balogunhabeeb14/HBalogun inspires this repository
